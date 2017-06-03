@@ -2,6 +2,7 @@
 
 **致力于分享最新最全面的机器学习资料，欢迎你成为贡献者!**
 
+**[Machine learning surveys](https://github.com/metrofun/machine-learning-surveys/)**
 
 - - -
 
