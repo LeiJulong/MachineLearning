@@ -80,6 +80,7 @@
 
 - [机器学习的发展历程及启示](http://mt.sohu.com/20170326/n484898474.shtml), (@Prof. Zhihua Zhang/@张志华教授)
 
+- [常用的距离和相似度度量](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/distance%20and%20similarity.md)
 
 - - -
 
