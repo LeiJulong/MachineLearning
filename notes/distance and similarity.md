@@ -1,7 +1,8 @@
 # 距离度量
 
 - - -
-[TOC]
+
+[toc]
 
 ## 常见距离与相似度度量
 
@@ -148,7 +149,8 @@ $$
 一个二分图上的流问题，最小代价就是最小流，用匈牙利算法可以解决。
 
 $$
-emd(X,Y)=\min{\frac{\sum_{i,j}f_{ij}d(\textbf{x}_i,\textbf{y}_j)}{\sum_{j}w_{yj}}},s.t. \sum_{i}f_{ij}=w_{yj}, \sum_{j}f_{ij}=w_{xi}.
+emd(X,Y)=\min{\frac{\sum_{i,j}f_{ij}d(\textbf{x}_i,\textbf{y}_j)}{\sum_{j}w_{yj}}}, 
+s.t. \sum_{i}f_{ij}=w_{yj}, \sum_{j}f_{ij}=w_{xi}.
 $$
 
 #### References
